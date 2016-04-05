@@ -128,7 +128,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                 <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="13" y="399" width="388" height="322"/>
+                                    <rect key="frame" x="13" y="399" width="388" height="196"/>
                                 </variation>
                             </textView>
                         </subviews>
@@ -181,7 +181,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="448.5" y="621"/>
+            <point key="canvasLocation" x="819" y="630.75"/>
         </scene>
     </scenes>
 </document>
